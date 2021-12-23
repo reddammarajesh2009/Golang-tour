@@ -7,8 +7,3 @@ func main() {
 	// prints geeksforgeeks
 	fmt.Println("Hello, geeksforgeeks")
 }
-
-fun test() {
-
-	fmt.println(("testing"))
-}
